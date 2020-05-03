@@ -1,5 +1,6 @@
 ---
 published: true
+title: SARS-CoV-2 Runde 2
 ---
 Hier findet ihr die Fragen zu Runde 2.
 
