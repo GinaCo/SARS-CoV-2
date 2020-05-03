@@ -2,5 +2,5 @@
 published: true
 ---
 <head>
-  <title>My title</title>
+  <title>Soon</title>
 </head>
