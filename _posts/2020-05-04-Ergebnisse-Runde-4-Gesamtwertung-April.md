@@ -19,13 +19,13 @@ Den Lösungsbogen findet ihr anbei; demnächst werden wir das auch auf die Seite
 
 **Die weiteren Top 10 des April und Quiztophs eigene Platzierung:**
 
-4. Emil Saupreis, München, 174,87 Punkte
-5. Jan-Cestio Abbasy, Duisburg, 173,13 Punkte
-6. Markus Müller, Itzehoe, 172,01 Punkte
-7. Nicole Stratmann, Hamm, 169,22 Punkte
-8. Pascal Bothe, Hannover, 168,62 Punkte
-9. David F, Borås (Schweden), 168,10 Punkte
-10. André Brauer, Volkmarsen, 164,56 Punkte 
+4. **Emil Saupreis, München, 174,87 Punkte**
+5. **Jan-Cestio Abbasy, Duisburg, 173,13 Punkte**
+6. **Markus Müller, Itzehoe, 172,01 Punkte**
+7. **Nicole Stratmann, Hamm, 169,22 Punkte**
+8. **Pascal Bothe, Hannover, 168,62 Punkte**
+9. **David F, Borås (Schweden), 168,10 Punkte**
+10. **André Brauer, Volkmarsen, 164,56 Punkte** 
 
 
 Insgesamt haben 219 Quizzer über die vier Wochen hinweg teilgenommen. Wir freuen uns über alle, die jede Woche unsere Fragen lösen, über alle, die neu dazu kommen und weitersagen, denn der Wettbewerb lebt von den vielen Teilnehmern und dem wahrlich hochklassigen Starterfeld. Dazu möchten wir uns bei allen von euch bedanken, die uns Lob, Komplimente und Dank zugeschickt haben - es freut uns, zu sehen, dass unsre Arbeit euch Spaß und Freude bereitet und hoffen, dass wir euch auch weiter so gut beim Social Distancing unterhalten können!
