@@ -19,6 +19,9 @@ Den Lösungsbogen findet ihr anbei; demnächst werden wir das auch auf die Seite
 
 **Die weiteren Top 10 des April und Quiztophs eigene Platzierung:**
 
+1. **Lorcan Duff, München, 195,60 Punkte**
+2. **Augenbraue des Volkes, Berlin, 194,81 Punkte** 
+3. **Barney Gumble, Hannover, 185,72 Punkte**
 4. **Emil Saupreis, München, 174,87 Punkte**
 5. **Jan-Cestio Abbasy, Duisburg, 173,13 Punkte**
 6. **Markus Müller, Itzehoe, 172,01 Punkte**
