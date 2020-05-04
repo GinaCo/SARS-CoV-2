@@ -42,4 +42,4 @@ Und so schön kreativ wir Antworten wie "irgendeine Hirndrüse" (Frage 30), den 
 Viel Spaß bei Runde 5 und auf ein neues zur Monatswertung Mai; für die Quartalswertung II/2020 gibt es dann auch wieder Streichergebnisse, sodass die unter euch, die eine Runde verpasst haben (wie der Sieger der aktuellen Runde) dann auch eine Chance haben.
 
 
-[Lösungen Runde 4 (klick mich!)](https://ginaco.github.io/pdffiles/document.pdf)
+[Lösungen Runde 4 (klick mich!)](https://ginaco.github.io/pdffiles/SARS-CoV-2_R4_Lösungen.pdf)
