@@ -17,7 +17,7 @@ Den Lösungsbogen findet ihr anbei; demnächst werden wir das auch auf die Seite
 
 **Monatssieger im April wurde somit Lorcan Duff aus München mit 195,60 Punkten nach den Wochenplatzierungen 12, 4, 1 und 3. Herzlichen Glückwunsch! Hauchdünn mit nur 0,79 Pünktchen Rückstand lag die Augenbraue des Volkes aus Berlin mit zwei zweiten Wochenplatzierungen als besten Einzelergebnissen auf Platz 2 (194,81); dritter wurde Barney Gumble aus Hannover mit 185,72 Punkten, der als einziger Quizzer jede Runde unter den besten 10 beendete.**
 
-**Die weiteren Top 10 des April und Quiztophs eigene Platzierung:**
+**Die Top 10 des April und Quiztophs eigene Platzierung:**
 
 1. **Lorcan Duff, München, 195,60 Punkte**
 2. **Augenbraue des Volkes, Berlin, 194,81 Punkte** 
