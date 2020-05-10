@@ -6,6 +6,7 @@ metadata:
       field:
         element: text
         label: SARS-CoV-2 Runde 6
+title: SARS-CoV-2 Runde 6
 ---
 Hier findet ihr die Fragen zu Runde 6. Viel Spaß!
 
