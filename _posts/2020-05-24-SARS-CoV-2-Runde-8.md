@@ -1,5 +1,12 @@
 ---
 published: true
+metadata:
+  _posts:
+    - name: SARS-CoV-2 Runde 7
+      field:
+        element: text
+        label: SARS-CoV-2 Runde 7
+title: SARS-CoV-2 Runde 7
 ---
 Hier findet ihr die Fragen zu Runde 8. Viel Spaß!
 
