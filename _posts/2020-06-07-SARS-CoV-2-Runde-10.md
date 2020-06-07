@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 metadata:
   _posts:
     - name: SARS-CoV-2 Runde 10
