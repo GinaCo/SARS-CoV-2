@@ -6,7 +6,7 @@ metadata:
       field:
         element: text
         label: SARS-CoV-2 Runde 17
-title: SARS-CoV-2 Runde 17
+title: 'SARS-CoV: Nicht-Fußball!'
 ---
 Ein Quiz für alle, die nichts über Fußball wissen. Viel Spaß!
 
