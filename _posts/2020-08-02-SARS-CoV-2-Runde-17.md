@@ -6,7 +6,7 @@ metadata:
       field:
         element: text
         label: SARS-CoV-2 Runde 17
-title: SARS-CoV-2 Runde 17
+title: SARS-CoV Runde 17
 ---
 Hier findet ihr die Fragen zu Runde 17. Viel Spaß!
 
