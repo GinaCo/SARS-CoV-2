@@ -6,7 +6,7 @@ metadata:
       field:
         element: text
         label: SARS-CoV Runde 22
-title: SARS-CoV-2 Runde 22
+title: SARS-CoV Runde 22
 ---
 Hier findet ihr die Fragen zu Runde 22. Viel Spaß!
 
