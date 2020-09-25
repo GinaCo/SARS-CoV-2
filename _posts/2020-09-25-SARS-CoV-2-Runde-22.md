@@ -2,10 +2,10 @@
 published: true
 metadata:
   _posts:
-    - name: SARS-CoV-2 Runde 22
+    - name: SARS-CoV Runde 22
       field:
         element: text
-        label: SARS-CoV-2 Runde 22
+        label: SARS-CoV Runde 22
 title: SARS-CoV-2 Runde 22
 ---
 Hier findet ihr die Fragen zu Runde 22. Viel Spaß!
