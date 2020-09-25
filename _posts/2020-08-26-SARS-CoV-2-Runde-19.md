@@ -6,7 +6,7 @@ metadata:
       field:
         element: text
         label: SARS-CoV-2 Runde 19
-title: SARS-CoV-2 Runde 19
+title: SARS-CoV Runde 19
 ---
 Hier findet ihr die Fragen zu Runde 19. Viel Spaß!
 
