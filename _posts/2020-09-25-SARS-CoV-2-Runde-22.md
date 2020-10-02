@@ -2,11 +2,11 @@
 published: true
 metadata:
   _posts:
-    - name: SARS-CoV Runde 22
+    - name: SARS-CoV Kreuzelquiz
       field:
         element: text
-        label: SARS-CoV Runde 22
-title: SARS-CoV Runde 22
+        label: SARS-CoV Kreuzelquiz
+title: SARS-CoV "Kreuzelquiz"
 ---
 Hier findet ihr die Fragen zu Runde 22. Viel Spaß!
 
